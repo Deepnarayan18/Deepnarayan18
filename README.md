@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="middle" alt="banner" width="600" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+  <img align="middle" alt="banner" width="600" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Deepnarayan Ghosh</h1>
 <h3 align="center">A passionate AI engineer from India</h3> 
