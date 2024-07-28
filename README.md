@@ -1,7 +1,12 @@
-[![MasterHead](https://www.navicosoft.com/wp-content/uploads/2020/10/expert-developers.gif​)](https://techy18ai.io​)
+<p align="center">
+  <img align="middle" alt="banner" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+</p>
 <h1 align="center">Hi 👋, I'm Deepnarayan Ghosh</h1>
 <h3 align="center">A passionate AI engineer from India</h3> 
-<img align="right" alt="coder" width="400" src="https://cdn.dribbble.com/userupload/11520819/file/original-4deffc62036fdc50ffdc30f77bfa6d1c.gif">  
+<p align="center">
+  <img align="middle" alt="coder" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+</p>
+  
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techy18ai" alt="techy18ai" /></a> </p>
