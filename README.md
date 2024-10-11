@@ -23,8 +23,8 @@ If you have a product idea, project, or challenge you'd like to discuss, I would
 
 Feel free to reach out through any of the following channels:
 
-- **Twitter:** [@deep_as_ai](https://twitter.com/deep_as_ai)
-- **LinkedIn:** [Deepnarayan Ghosh](https://www.linkedin.com/in/deepnarayan-ghosh)
-- **Email:** [deepghosh56789@gmail.com](mailto:deepghosh56789@gmail.com)
+- **Twitter:** @deep_as_ai engineer
+- **LinkedIn:** Deepnarayan Ghosh
+- **Email:** deepghosh56789@gmail.com
 
 Let’s collaborate and create impactful solutions together!
