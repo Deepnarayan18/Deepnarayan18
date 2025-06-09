@@ -24,7 +24,7 @@ If you have a product idea, project, or challenge you'd like to discuss, I would
 Feel free to reach out through any of the following channels:
 
 
-- **LinkedIn:** https://www.linkedin.com/in/deepnarayan-ghoshh-0187a3290
+- **LinkedIn:** https://www.linkedin.com/in/deepnarayan-ghoshh
 - **Email:** deepghosh56789@gmail.com
 
 Let’s collaborate and create impactful solutions together!
